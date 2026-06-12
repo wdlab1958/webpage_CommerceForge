@@ -6,10 +6,12 @@
 > "빨리 많이 올리는" 도구가 아니라, **페널티·적자·품절·반품으로 죽지 않는 운영**을 자동화한다 —
 > 깔때기의 아래쪽, 아무도 자동화하지 않는 그 지점을 자동화하는 플랫폼.
 
-## 미리보기
+## 🌐 Live Page
 
-- 로컬: `python3 -m http.server 8772` 후 http://localhost:8772/
-- GitHub Pages 배포 시: `https://wdlab1958.github.io/webpage_CommerceForge/`
+**https://wdlab1958.github.io/webpage_CommerceForge/** — GitHub Pages 배포 완료(`main` / 루트, HTTPS).
+
+- 로컬 미리보기: `python3 -m http.server 8772` 후 http://localhost:8772/
+- 수정 후 `git push` 하면 1~2분 내 자동 재배포됩니다.
 
 ## 구조
 
